@@ -1,3 +1,3 @@
-module github.com/renzhuangzhuang/go-tools
+module github.com/renzhuangzhuang/gomodone
 
 go 1.18

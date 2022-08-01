@@ -1,4 +1,4 @@
-package queue
+package gomodone
 
 //定义队列数据结构
 type (
